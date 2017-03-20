@@ -1,11 +1,22 @@
+<p>
 Please provide a Java program to answer the following question:
+</p>
 
- 
-<pre>
-Given an arbitrary text document written in English, write a program that will generate a concordance. A Concordance is an alphabetical list of all word occurrences labeled with word frequencies. Bonus label each word with the sentence numbers in which each occurrence appeared.
-</pre>
- 
-The input is available in the file **input.txt**.
+<font color='blue'>
+<p>
+<i>
+Given an arbitrary text document written in English, write a program that will generate a <b>concordance</b>. A <b>concordance</b> is an alphabetical list of all word occurrences labeled with word frequencies.
+</p>
+
+<p>
+<b>Bonus</b> : label each word with the sentence numbers in which each occurrence appeared.
+</i>
+</p>
+</font>
+
+<p> 
+The input is available in the file <b>input.txt</b>.
+</p>
 
 Sample output is as follows:
 
